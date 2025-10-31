@@ -402,6 +402,7 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
+  font-family: "Spectral";
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
@@ -411,6 +412,7 @@ h6 {
 
 #hero h2 {
   color: #00594c;
+  font-family: "Great Vibes";
   margin-bottom: 40px;
   font-size: 24px;
 }
