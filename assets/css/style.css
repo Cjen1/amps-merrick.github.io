@@ -499,6 +499,10 @@ section {
   margin: 15px 0 0 0;
   font-size: 32px;
   font-weight: 700;
+  text-align: center;
+}
+
+.section-title h4 {
   text-align: left;
 }
 
@@ -509,7 +513,7 @@ section {
 .section-title p {
   margin: 15px auto 0 auto;
   font-weight: 600;
-  text-align: left;
+  text-align: justify;
 }
 
 @media (min-width: 1024px) {
