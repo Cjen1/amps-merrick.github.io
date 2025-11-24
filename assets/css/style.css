@@ -360,7 +360,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 75vh;
+  height: 50%;
   background: url("../img/webpageCorner.png") top left;
   background-size: cover;
   position: relative;
@@ -402,7 +402,7 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-family: "Spectral";
+  font-family: "Nunito";
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
@@ -411,7 +411,7 @@ h6 {
 
 #hero h2 {
   color: #00594c;
-  font-family: "Dancing Script";
+  font-family: "Poppins";
   margin-bottom: 40px;
   font-size: 24px;
 }
@@ -503,7 +503,7 @@ section {
 }
 
 .section-title h4 {
-  text-align: left;
+  text-align: centre;
 }
 
 .section-title h3 span {
