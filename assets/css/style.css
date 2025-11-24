@@ -423,8 +423,8 @@ h6 {
   font-size: 13px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 8px 30px 9px 30px;
-  border-radius: 50px;
+  padding: 8px 15px 9px 15px;
+  border-radius: 25px;
   transition: 0.5s;
   border: 2px solid #fff;
   color: #fff;
