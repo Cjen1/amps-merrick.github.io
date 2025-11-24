@@ -360,7 +360,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 50%;
+  height: 75%;
   background: url("../img/webpageCorner.png") top left;
   background-size: cover;
   position: relative;
@@ -416,25 +416,6 @@ h6 {
   font-size: 24px;
 }
 
-#hero .btn-get-started {
-  font-family: "Poppins", sans-serif;
-  text-transform: uppercase;
-  font-weight: 400;
-  font-size: 13px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 30px 9px 30px;
-  border-radius: 50px;
-  transition: 0.5s;
-  border: 2px solid #fff;
-  color: #fff;
-}
-
-#hero .btn-get-started:hover {
-  background: #00594c;
-  border: 2px solid #00594c;
-}
-
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -447,13 +428,13 @@ h6 {
   }
 
   #hero h1 {
-    font-size: 28px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 42px;
   }
 
   #hero h2 {
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 24px;
+    line-height: 30px;
     margin-bottom: 30px;
   }
 }
@@ -503,7 +484,7 @@ section {
 }
 
 .section-title h4 {
-  text-align: centre;
+  text-align: center;
 }
 
 .section-title h3 span {
