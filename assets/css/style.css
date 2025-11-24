@@ -416,6 +416,26 @@ h6 {
   font-size: 24px;
 }
 
+#hero .btn-get-started {
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 13px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 30px 9px 30px;
+  border-radius: 50px;
+  transition: 0.5s;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+#hero .btn-get-started:hover {
+  background: #00594c;
+  border: 2px solid #00594c;
+}
+
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
